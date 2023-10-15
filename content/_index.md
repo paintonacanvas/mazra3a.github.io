@@ -12,9 +12,4 @@ header_logo: "images/chef-hat.png"
 header_headline: "Mazra3a"
 header_subheadline: "<b>Nutrition</b> Agriculture<b> Technology</b> Food Security"
 
-# Add a 'Go back to top' item to the navigation menu
-# Title: name of navigation menu entry
-# Weight (i. e. position in menu): none = no menu entry, first = add as first entry, last = ad as last entry
-nav_to_top_title: "Return To Top"
-nav_to_top_weight: last
----
+
