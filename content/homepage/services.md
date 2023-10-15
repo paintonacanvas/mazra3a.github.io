@@ -1,29 +1,15 @@
 ---
-title: "The Services I Offer"
+title: "The Services We Offer"
 header_menu_title: "Services"
-navigation_menu_title: "My Services"
+navigation_menu_title: "Our Services"
 weight: 2
 header_menu: true
 ---
 
-Feature notice: This section displays options to customize title:
-- has a normal section title (`title` = "The Services I Offer"),
-- custom welcome screen title (`header_menu_title` = "Services"),
-- custom navigation menu title (`navigation_menu_title` = "My Services").
+### The Mazra3a Unit
+The Mazra3a Unit does everything for you from A-Z, All you need to do is just plant your seeds, Everything else is automated! From nutrients, moisture levels, and all the way to lighting. The Mazra3a Unit takes care of it all.
 
-That is the important part, right? You want to know what I can do for you. This is why I put this right up there into the header menu of the website.
 
----
+### The Mazra3a App
 
-### Nutrition Coaching
-
-This is not an easy task. 
-You will likely have to pay money for this.
-
-### Chef Consulting
-
-I can raise your table culture!
-
-![Let us get started on a clean slate](images/woman-pouring-juice-on-glass-3184192.jpg)
-
-Want to learn more about my services? See [dedicated page](services) with more details.
+The Mazra3a app allows you to remotely check on your plants status, allowing you to check if moisture, nutrient, and lighting levels are all up to par! It also notifies on any actions that need to be taken, including harvesting crops and any other relevant actions to be taken!
